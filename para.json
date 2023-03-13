@@ -1,7 +1,0 @@
-[
-    "KeyName=akhee",
-    "AZName=ap-south-1a",
-    "InstType=t3.micro",
-    "AMIID=ami-09ba48996007c8b50",
-    "InstName = akhee_instance "
-]
